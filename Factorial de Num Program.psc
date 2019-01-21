@@ -1,4 +1,4 @@
-Algoritmo Multiplicar_SinSigno
+Algoritmo Factorial_num
 	
 	//Autor: RodolfoA. Martinez;
 	//Este Programa se usa para Calcular el Factorial de un Numero;
