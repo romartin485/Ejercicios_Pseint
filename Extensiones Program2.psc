@@ -1,4 +1,4 @@
-Algoritmo diasemana_switch
+Algoritmo Mostrar_Extensiones
 	
 	//Autor: RodolfoA. Martinez;
 	//Este Programa se usa para Mostrar el Tipo de Documento segun la Extension digitada;
