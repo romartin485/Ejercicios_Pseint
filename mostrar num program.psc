@@ -5,8 +5,8 @@ Algoritmo Mostrar_Num
 	Escribir "*******Copyright ",_autor "**********";
 	Para i<-1 Hasta 10 Con Paso 1 Hacer
 		Escribir i;
-	Fin Para	
+	Fin Para		
 	Escribir "************Hasta Luego************";
 	Escribir "Pulse Enter para salir del programa";
-	Escribir "";	
+	Escribir "";
 FinAlgoritmo
