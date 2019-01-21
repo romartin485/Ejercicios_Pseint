@@ -58,7 +58,8 @@ Algoritmo Imprimir_mesesano
 	FinSi
 	
 	si caractere <= 0 o caractere >= 13
-		Escribir "Este valor no es valido: ", caractere " Intentelo de nuevo";
+		Escribir "Este valor " caractere " no es valido";
+		Escribir "Intentelo de nuevo";
 	FinSi
 	Escribir " ";
 FinAlgoritmo
