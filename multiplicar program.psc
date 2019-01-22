@@ -1,7 +1,6 @@
 Algoritmo Tabla_Multip
+	
 	_autor<-"Rodolfo Martinez";
-	Definir edad Como Entero;
-	Definir op como Caracter;
 	Escribir "*****Bienvenidos a este Programa 2019******";
 	Escribir "*******Copyright ",_autor "**********";
 	Escribir " ";
