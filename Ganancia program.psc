@@ -1,6 +1,6 @@
 Algoritmo Ganancia_meses
 	
-	//Autor: RodolfoA. Martinez;
+	//Autor: Rodolfo A. Martinez;
 	//Este Programa se usa para Calcular las Ganancias en 6 Meses;
 	
 	_autor <- "Rodolfo A. Martinez";
