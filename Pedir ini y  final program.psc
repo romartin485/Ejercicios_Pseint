@@ -1,7 +1,7 @@
 Algoritmo Pedir_inifinal
 	
 	//Autor: Rodolfo A. Martinez;
-	//Este Programa se usa para digitar el final y generar los números del 1 hasta ese final;
+	//Este Programa se usa para digitar el final y generar los números del 1 hasta el final;
 	
 	_autor <- "Rodolfo A. Martinez";
 	Escribir " ";
